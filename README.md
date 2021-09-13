@@ -33,3 +33,9 @@ process demo component with stage vars
 ```
 make demostage
 ```
+
+## result
+
+rendered component will be in target/components
+
+merged vars will be in target/vars (for debug)
