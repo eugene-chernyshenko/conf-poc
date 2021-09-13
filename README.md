@@ -16,7 +16,7 @@ prepare env vars for templates if needed
 export DEMO_PASSWORD=qwerty
 ```
 
-process all components
+process all components with default vars
 
 ```
 make
