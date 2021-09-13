@@ -1,0 +1,5 @@
+demo:
+  port: 8080
+
+mysql:
+  password: k2KeCjfZrL
